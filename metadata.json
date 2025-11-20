@@ -11,6 +11,8 @@
     "prerequisites": [
     ],
     "related": [
-        "html-tags"
+        "html-tags",
+        "css-introduction",
+        "javascript-introduction"
     ]
 }
